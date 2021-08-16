@@ -1,4 +1,4 @@
-# Ubuntu-RDP-black-screen-fix
+# Ubuntu RDP black screen fix
 ```bash
 sudo -s 
 ```
